@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scafferkey
 - 👀 I’m interested in data visualisation and celluar automata 
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning sklearn
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
